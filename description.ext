@@ -6,9 +6,9 @@ class Header
 };
 
 author = "Mr.Ben";
-onLoadName = "32 [Tour] Occupational Hazards v3.0"; 
+onLoadName = "32 [Tour] Occupational Hazards v3.1"; 
 onLoadMission = "Destroy The Bridge At All Costs!";
-briefingName = "32 [Tour] Occupational Hazards v3.0";
+briefingName = "32 [Tour] Occupational Hazards v3.1";
 onLoadMissionTime = true;
 overviewPicture = "";
 loadScreen = "img\help.paa"; //Loading screen picture, should be 1024x512 pixels in .paa format.
